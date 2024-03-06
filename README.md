@@ -12,3 +12,4 @@
 - [ ] **Paleta de Cores:** Selecionar e utilizar uma paleta de cores, seguindo a nomenclatura do Tailwind CSS.
 - [ ] **Layout:** Utilizar display flex e grid para layout.
 - [ ] **Animações:** Adicionar animações aos vídeos.
+- [ ] **Git flow:** Fazer uso de gitflow
